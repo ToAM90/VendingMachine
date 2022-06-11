@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+#change-button
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Orbitron', sans-serif;
+    background-color: #80aeb5;
+    color: white;
+    border: solid 1px #1e2626;
+    width: 100%;
+    height: 75px;
+    cursor: pointer;
+}
+
+#change-button:hover
+{
+    background-color: #71989e;
+}
+
+#change-button:active
+{
+    background-color: #65878d;
+}
+
+#change-button h2
+{
+    font-weight: 400;
+}

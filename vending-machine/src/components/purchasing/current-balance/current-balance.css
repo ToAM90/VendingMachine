@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+#current-balance
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+h1
+{
+    font-family: 'Orbitron', sans-serif;
+    align-items: center;
+    justify-content: center;
+
+    padding: 20px;
+    margin: 0;
+    color: chartreuse;
+}
